@@ -70,6 +70,9 @@ The project uses Gradient Boosting Regression from `scikit-learn`.
 
 ### 📈 Results
 
+![predicted](ouput/1.png)
+![actual](output/2.png)
+
 - The model successfully predicted 2 out of the Top 3 finishers correctly
 
 - The remaining predicted driver finished 4th, showing strong near-accuracy
