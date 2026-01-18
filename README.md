@@ -6,7 +6,12 @@ It was developed as a Mini Project for the Artificial Intelligence course in the
 The model is trained on historical race data and tested on current-season qualifying performance to predict race outcomes.
 
 ---
+## 📌 Disclaimer
 
+This project is intended for educational and analytical purposes only.
+Actual Formula 1 race outcomes depend on numerous unpredictable real-world factors.
+
+---
 ## 📌 Project Objective
 
 The primary goal of this project is to:
@@ -94,8 +99,3 @@ This indicates that qualifying performance is a strong indicator of race outcome
 - Extend predictions beyond Top 3 (full race classification)
 
 ---
-
-## 📌 Disclaimer
-
-This project is intended for educational and analytical purposes only.
-Actual Formula 1 race outcomes depend on numerous unpredictable real-world factors.
